@@ -6,18 +6,18 @@ I love to talk on trending ⚡ technologies ⚡and I ❤️ to code. Connect wit
 [![Linkedin Badge](https://img.shields.io/badge/-rashmi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashmi-duleesha-92997b197)](https://www.linkedin.com/in/rashmi-duleesha-92997b197/)
 [![Medium Badge](https://img.shields.io/badge/-@rashmildp-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@rashmildp)](https://medium.com/@rashmildp)
 
-- 🏢 I am a 2nd Year undergraduate from **University of Moratuwa, Sri Lanka.**
+- 🏢 I am a 3rd Year undergraduate from **University of Moratuwa, Sri Lanka.**
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-   ![C](https://img.shields.io/badge/-C-3f4441?style=plastic&logo=C)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
 - ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - ⚙️ I also use and work: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
