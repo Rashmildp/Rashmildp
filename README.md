@@ -15,6 +15,7 @@ I love to talk on trending ⚡ technologies ⚡and I ❤️ to code. Connect wit
    ![C](https://img.shields.io/badge/-C-3f4441?style=plastic&logo=C)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
+- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
