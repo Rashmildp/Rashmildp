@@ -27,7 +27,7 @@ I love to talk on trending ⚡ technologies ⚡and I ❤️ to code. Connect wit
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I love to eat street foods and travel
 
-[![Rashmi's github stats](https://github-readme-stats.vercel.app/api?username=rashmildp&theme=dark&show_icons=true)](https://github.com/rashmildp)
+[![Rashmi's github stats](https://github-readme-stats.vercel.app/api?username=rashmildp&theme=radical&show_icons=true)](https://github.com/rashmildp)
 
 
 # Read my recent blog's
