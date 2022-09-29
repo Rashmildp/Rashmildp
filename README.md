@@ -6,7 +6,7 @@ I love to talk on trending ⚡ technologies ⚡and I ❤️ to code. Connect wit
 [![Linkedin Badge](https://img.shields.io/badge/-rashmi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashmi-duleesha-92997b197)](https://www.linkedin.com/in/rashmi-duleesha-92997b197/)
 [![Medium Badge](https://img.shields.io/badge/-@rashmildp-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@rashmildp)](https://medium.com/@rashmildp)
 
-- 🏢 I am a 3rd Year undergraduate from **University of Moratuwa, Sri Lanka.**
+- 🏢 I am a 4th Year undergraduate from **University of Moratuwa, Sri Lanka.**
 
 - 💻 I work using:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
